@@ -33,7 +33,7 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory:
    cd hacker_news
 
-3. Install the required dependencies using npm
+3. Install the required dependencies using npm:
    npm install
 
 4. Start the development server:
